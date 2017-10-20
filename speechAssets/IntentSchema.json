@@ -1,0 +1,24 @@
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "MyIntent",
+      "samples": [
+        "Talk to me",
+        "Say something"
+      ],
+      "slots": []
+    }
+  ]
+}
